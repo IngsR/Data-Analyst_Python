@@ -45,9 +45,8 @@ jupyter notebook
 ## 📊 Contoh Analisis
 
 Beberapa contoh proyek dalam repositori ini:  
-🔹 **(Tambahkan deskripsi proyek pertama)**  
-🔹 **(Tambahkan deskripsi proyek kedua)**  
-🔹 **(Tambahkan deskripsi proyek ketiga)**  
+🔹 **(Inti-code-pandas)**  
+
 
 ---
 
@@ -58,5 +57,4 @@ Repositori ini menggunakan lisensi **MIT** – Bebas digunakan dan dikembangkan 
 ---
 
 🔥 **Dibuat dengan ❤️ oleh Ikhwan Ramadhan** 🚀
-```
 
