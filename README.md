@@ -1,4 +1,4 @@
-```markdown
+markdown
 # 📊 Data Analyst dengan Jupyter Notebook (*IPYNB*)
 
 ## 📌 Deskripsi
