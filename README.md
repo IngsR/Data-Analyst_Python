@@ -1,4 +1,3 @@
-markdown
 # 📊 Data Analyst dengan Jupyter Notebook (*IPYNB*)
 
 ## 📌 Deskripsi
@@ -58,6 +57,6 @@ Repositori ini menggunakan lisensi **MIT** – Bebas digunakan dan dikembangkan 
 
 ---
 
-🔥 **!** 🚀
+🔥 **Dibuat dengan ❤️ oleh Ikhwan Ramadhan** 🚀
 ```
 
