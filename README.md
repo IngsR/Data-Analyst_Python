@@ -11,7 +11,7 @@ Repositori ini berisi proyek dan analisis data yang dilakukan menggunakan **Jupy
 ✅ **Eksplorasi Data** – Membersihkan, mengolah, dan memahami dataset  
 ✅ **Visualisasi Data** – Membuat grafik dan diagram menggunakan *Matplotlib* & *Seaborn*  
 ✅ **Statistical Analysis** – Menggunakan teknik statistik dasar untuk mengidentifikasi pola  
-✅ **Machine Learning (Opsional)** – Model prediktif menggunakan *Scikit-Learn*  
+✅ **Machine Learning** – Model prediktif menggunakan *Scikit-Learn*  
 
 ---
 
