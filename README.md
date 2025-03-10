@@ -45,7 +45,8 @@ jupyter notebook
 ## 📊 Contoh Analisis
 
 Beberapa contoh proyek dalam repositori ini:  
-🔹 **Inti-code-pandas**  
+🔹 **Inti-code-pandas** 
+🔹 **amazon-data-analysis** 
 
 
 ---
