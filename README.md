@@ -17,7 +17,7 @@ Repositori ini berisi proyek dan analisis data yang dilakukan menggunakan **Jupy
 
 ## 🔧 Teknologi yang Digunakan
 
-- **Python** *(Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn)*  
+- **Python** *(Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn, Pytorch)*  
 - **Jupyter Notebook**  
 
 ---
