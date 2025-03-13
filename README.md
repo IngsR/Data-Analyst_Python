@@ -47,6 +47,7 @@ jupyter notebook
 Beberapa contoh proyek dalam repositori ini:  
 🔹 **Inti-code-pandas** 
 🔹 **amazon-data-analysis** 
+🔹 **Crime_data_from_2020_to_Present**
 
 
 ---
