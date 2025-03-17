@@ -46,8 +46,8 @@ jupyter notebook
 
 Beberapa contoh proyek dalam repositori ini:  
 🔹 **Mastering-pandas**       
-🔹
-🔹 
+🔹 **Notebooks/Eksplore Data & Features Engginering**
+🔹 **Modeling data dengan machine learning dan deep learning**
 
 
 ---
