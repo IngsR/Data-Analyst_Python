@@ -53,9 +53,9 @@ Beberapa contoh proyek dalam repositori ini:
 ---
 
 ## 📜 Lisensi
-
 Repositori ini menggunakan lisensi **MIT** – Bebas digunakan dan dikembangkan lebih lanjut.
 
+![My Project](https://raw.githubusercontent.com/IngsR/Data-Analyst_Python/preview-image.png)
 ---
 
 🔥 **Dibuat dengan ❤️ oleh Ikhwan Ramadhan** 🚀
