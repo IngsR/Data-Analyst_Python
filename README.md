@@ -13,6 +13,7 @@ Repositori ini berisi proyek dan analisis data yang dilakukan menggunakan **Jupy
 ✅ **Statistical Analysis** – Menggunakan teknik statistik mengidentifikasi pola  
 ✅ **Machine Learning** – Model prediktif menggunakan *Scikit-Learn*  
 
+
 ---
 
 ## 🔧 Teknologi yang Digunakan
@@ -55,7 +56,6 @@ Beberapa contoh proyek dalam repositori ini:
 ## 📜 Lisensi
 Repositori ini menggunakan lisensi **MIT** – Bebas digunakan dan dikembangkan lebih lanjut.
 
-![My Project](https://raw.githubusercontent.com/IngsR/Data-Analyst_Python/preview-image.png)
 ---
 
 🔥 **Dibuat dengan ❤️ oleh Ikhwan Ramadhan** 🚀
