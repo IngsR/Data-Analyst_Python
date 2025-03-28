@@ -10,8 +10,10 @@ Repositori ini berisi proyek dan analisis data yang dilakukan menggunakan **Jupy
 
 ✅ **Eksplorasi Data** – Membersihkan, mengolah, dan memahami dataset  
 ✅ **Visualisasi Data** – Membuat grafik dan diagram menggunakan *Matplotlib* & *Seaborn*  
-✅ **Statistical Analysis** – Menggunakan teknik statistik mengidentifikasi pola  
-✅ **Machine Learning** – Model prediktif menggunakan *Scikit-Learn*  
+✅ **Data Cleaning** –  Membersihkan Data, mengidentifikasi Outlier & menangani Missing Value    
+✅ **Statistical Analysis** – Menggunakan teknik statistik mengidentifikasi pola      
+✅ **Data Preparation** – Melakukan Tranformasi & Perssiapan Data sebelum Pemodelan    
+✅ **Machine Learning** – Model Supervised/Unsupervised Learning Menggunkan Library **Scikit-Learn, Xgboost, CatBoost, LightGBM**
 
 
 ---
